@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java Full Stack`**
 
-Sou o Nei Cezar, desenvolvedor Java Full Stack com mais de 4 anos de experiência, com atuação como referência técnica em engenharia de software. Minha base está em Spring Boot, Angular e arquitetura de sistemas, com entregas reais em integração de APIs, AWS e otimização de performance. Também aplico IA generativa na prática, com fundamentos de RAG e agentes. Atualmente em dedicação integral às pós-graduações em Java Applied Engineering (UNIPDS) e Desenvolvimento Full Stack, aprofundando System Design e IA aplicada ao backend. Baseado em Brasília-DF.
+Sou o Nei Cezar, desenvolvedor Java Full Stack com mais de 4 anos de experiência, com atuação como referência técnica em engenharia de software. Minha base está em Spring Boot, Angular e arquitetura de sistemas, com entregas reais em integração de APIs, AWS e otimização de performance. Também aplico IA generativa na prática, com fundamentos de RAG e agentes. Atualmente em dedicação integral às pós-graduações em Java Applied Engineering + AI (UNIPDS), Engenharia de Software e Desenvolvimento Full Stack (concluido), aprofundando System Design e IA aplicada ao backend. Baseado em Brasília-DF.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nei-cezar">
