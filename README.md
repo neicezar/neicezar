@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Nei Cezar Alves Barbosa
+# 👨🏻‍💻 Nei Cezar
 
 **`Desenvolvedor Java Full Stack`**
 
